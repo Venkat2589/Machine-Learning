@@ -1,4 +1,4 @@
-# SpeakX-assignment
+
 1. Introduction
 The objective of this project is to predict customer churn for a telecom company. Customer churn refers to the loss of clients or customers. Accurate prediction of churn can help the company take proactive measures to retain customers and reduce revenue loss.
 
